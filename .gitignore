@@ -23,6 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+*.env
+
 package-lock.json
 
 # DONET SPECIFIC GITIGNORE
