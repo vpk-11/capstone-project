@@ -1,0 +1,22 @@
+.container{
+	margin-top: 2rem;
+}
+
+.table-container{
+	margin-top: 2rem;
+	padding: 3rem;
+	border: 1px solid white;
+	width: 100%
+}
+
+tr{
+	margin: 2rem;
+	padding: 2rem;
+	border: 1px solid white;
+}
+
+td{
+	margin: 2rem;
+	padding: 1rem;
+	border: 1px solid white;
+}

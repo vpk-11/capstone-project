@@ -1,42 +1,30 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+.home{
+	color: white;
+}
+.page{
+	background-color: #1e1e1e;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-}
+/*
+Shades of Wells Fargo
+	#000000
+	#120305
+	#24060a
+	#36090e
+	#480c13
+	#5a0f18
+	#6b121d
+	#7d1522
+	#8f1826
+	#a11b2b
+	#bb3445
+	#c24b59
+	#ca626e
+	#d17883
+	#d98f98
+	#e1a5ac
+	#e8bcc1
+	#f0d2d6
+	#f7e9ea
+	#ffffff
+*/
